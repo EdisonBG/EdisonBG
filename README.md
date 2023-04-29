@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭I'm currently working on my own projects and learning from them.<br>🤝 Looking for a job in frontend development<br>🌱 I’m currently learning Javascript<br>⚡ besides Frontend, I love IoT and domotica projects
+🔭I'm currently working on my own projects and learning from them.<br>🤝 Looking for a job in frontend development<br>🌱 I’m currently learning Javascript<br>⚡ besides Frontend, I love IoT and domotic projects
 
 
 ## 🌐 Socials:
